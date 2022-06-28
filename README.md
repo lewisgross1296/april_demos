@@ -1,0 +1,1 @@
+This repository has some live demos April did to orient us on MOOSE and Cardinal. See the individual readmes in each directory for commands to run and view with Paraview
